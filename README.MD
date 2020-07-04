@@ -17,3 +17,5 @@
 2. [Design a Stack With Increment Operation](https://leetcode.com/problems/design-a-stack-with-increment-operation)
 
 3. [LRU Cache](https://leetcode.com/problems/lru-cache)
+
+4. [Min Stack](https://leetcode.com/problems/min-stack)
