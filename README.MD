@@ -19,3 +19,5 @@
 3. [LRU Cache](https://leetcode.com/problems/lru-cache)
 
 4. [Min Stack](https://leetcode.com/problems/min-stack)
+
+5. [Max Stack](https://leetcode.com/problems/max-stack)💰
