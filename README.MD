@@ -23,3 +23,5 @@
 5. [Max Stack](https://leetcode.com/problems/max-stack)💰
 
 6. [Dinner Plate Stacks](https://leetcode.com/problems/dinner-plate-stacks)💩
+
+7. [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues)
