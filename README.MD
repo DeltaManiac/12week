@@ -25,3 +25,10 @@
 6. [Dinner Plate Stacks](https://leetcode.com/problems/dinner-plate-stacks)💩
 
 7. [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues)
+
+
+### Queue
+------------------------------------
+
+1. [Design Circular Queue](https://leetcode.com/problems/design-circular-queue)
+
